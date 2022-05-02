@@ -5,6 +5,6 @@ Install all the modules listed below:
 
 1. mediapipe
 2. cv2
-3. umpy
+3. numpy
 4. win32api
 5. pyautogui
